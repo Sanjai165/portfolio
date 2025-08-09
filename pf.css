@@ -1,0 +1,129 @@
+body{
+    
+     background-color: antiquewhite;
+}
+
+header{
+   background-color:rgb(243, 204, 132);
+}
+header li{
+    color: brown;
+}
+ul,li{
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+
+
+}
+a{
+    text-decoration: none;
+}
+#about h2{
+    border-radius:100px;
+}
+#portfolio h2{
+    border-radius:100px;
+}
+#resume h2{
+    border-radius:100px;
+}
+#skill h2{
+    border-radius:100px;
+}
+#contact h2{
+    border-radius:100px;
+}
+#web h2{
+    border-radius:100px;
+}
+
+h1{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+header{
+    padding-bottom: 40px;
+}
+#par{
+    padding-bottom: 0px;
+}
+#img{
+    height: 220px;
+    width: 200px;
+    border-radius:15px;
+    
+}
+/* #portfolio{
+    background-color: bisque;
+} */
+
+.resume{
+    text-align: center;
+   
+}
+
+.any{
+    color:brown;
+
+}
+.skill{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.tec{
+    padding-top: 5px;
+
+}
+
+progress{
+    width: 100px;
+}
+#Contact{
+    padding-top: 0px;
+}
+table,tr,th,td{
+    border-radius: 1px;
+    border-style: inset;
+    border-collapse: collapse;
+    padding: 10px;
+    
+}
+table,th{
+    padding:10px ;
+    
+}
+.main{
+    color:black;
+}
+
+table tr{
+    color: black;
+}
+.edu{
+    color: rgb(21, 21, 20);
+}
+.web{
+    text-align: center;
+    padding-bottom: 5px;
+    
+}
+.web a{
+    color: brown;
+}
+.web p{
+    color: brown;
+}
+#web{
+    padding-top: 10px;
+}
+marquee{
+    background-color:teal;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+table td a{
+    color: black;
+}
